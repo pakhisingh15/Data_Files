@@ -7,7 +7,7 @@ by _Vivek Kumar Singh, Prashasti Singh, Ashraf Uddin, Parveen Arora, Sujit Bhatt
 
 ## Data Source
 
-The data was collected from Scopus Database. The collected data was based on the time period of 2015 - 2019.
+The data was collected from Scopus Database and processed from Scopus Master Journal List (updated June-2020), based on the time period of 2005 - 2019.
 
 ## Data Features
 
