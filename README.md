@@ -1,6 +1,6 @@
 There are 5 files that have been uploaded to this repository. 
-In the excel file named, "yearwiseTP_countries" there is publication data (article+review) types for the top 50 productive countries in Scopus during 2005-2019
-In the excel file named, "yearwise_top100countries_countryjournals" there is NCJ (number of country journals) during 2005-2019 for the top productive countries in Scopus
+In the excel file named, "yearwiseTP_countries" there is publication data (article+review) types for the top productive countries in Scopus during 2005-2019.
+In the excel file named, "yearwiseNCJ_countries" there is NCJ (number of country journals) during 2005-2019 for the top productive countries in Scopus
 In the excel file named, "Source-titles_ext_list_June_2020 (1)" there is data that comprises the Master Journal List of Scopus that has been used for processing the results
 In the excel file named, "Country_Subject_Correlation(Journal vs Publication)_Yearwise" there is data that contains the correlation values for NCJ-S (Number of Country Journals-Subject) vs TP-S (Total Publications-Subject) computed for 2005-2019 for top 50 productive countries in Scopus.
 In the folder Subject_Results_Top50, there are 50 csv files for each of the top 50 productive countries in Scopus. In each csv file, there are 2 sheets in which 1 sheet comprises of Publication Data (article+review) types in each of the 27 subject areas during 2005-2019 and another sheet contains Number of Country Journals in each of the 27 subject areas during 2005-2019.
